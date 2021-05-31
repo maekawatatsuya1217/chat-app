@@ -119,6 +119,7 @@
     height: 90px;
     background-color: #DDDDDD;
     padding: 20px 40px;
+    display: flex;
 }
 
 .contact-form {
@@ -135,14 +136,14 @@
     background-color: white;
 }
 
-.message-form {
+.form-message {
     width: 100%;
     background-color: white;
     padding-left: 10px;
     border: none;
 }
 
-.send {
+.form-submit {
     font-size: 16px;
     color: white;
     background-color: #38aef0;
